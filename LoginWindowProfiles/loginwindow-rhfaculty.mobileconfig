@@ -108,7 +108,7 @@
 	<key>PayloadDescription</key>
 	<string>Loginwindow configuration settings</string>
 	<key>PayloadDisplayName</key>
-	<string>Loginwindow Configuration</string>
+	<string>Loginwindow Config RH Faculty</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.gregneagle.loginwindow</string>
 	<key>PayloadOrganization</key>
