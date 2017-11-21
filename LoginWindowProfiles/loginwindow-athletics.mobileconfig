@@ -102,7 +102,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>com.apple.autologout.AutoLogOutDelay</key>
-			<integer>1800</integer>
+			<integer>0</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
