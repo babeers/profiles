@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.VMServer.local.80669c1c-4ce0-488b-9d76-8f661fd61709.alacarte</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>80669c1c-4ce0-488b-9d76-8f661fd61709</string>
+	<key>PayloadOrganization</key>
+	<string>Dock Generic Settings</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Dock Generic Settings</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.dock</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.VMServer.local.80669c1c-4ce0-488b-9d76-8f661fd61709.alacarte.dock.99254fc0-c4d7-0131-81df-000c2944c108</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>99254fc0-c4d7-0131-81df-000c2944c108</string>
+			<key>PayloadDisplayName</key>
+			<string>Dock Generic Settings</string>
+			<key>tilesize</key>
+			<integer>64</integer>
+			<key>size-immutable</key>
+			<true/>
+			<key>magnification</key>
+			<false/>
+			<key>largesize</key>
+			<integer>64</integer>
+			<key>magnify-immutable</key>
+			<true/>
+			<key>magsize-immutable</key>
+			<true/>
+			<key>orientation</key>
+			<string>bottom</string>
+			<key>mineffect</key>
+			<string>genie</string>
+			<key>mineffect-immutable</key>
+			<true/>
+			<key>launchanim</key>
+			<true/>
+			<key>launchanim-immutable</key>
+			<true/>
+			<key>autohide</key>
+			<false/>
+			<key>show-process-indicators</key>
+			<true/>
+			<key>show-process-indicators-immutable</key>
+			<true/>
+			<key>minimize-to-application</key>
+			<false/>
+			<key>minimize-to-application-immutable</key>
+			<true/>
+						
+		</dict>
+	</array>
+</dict>
+</plist>
